@@ -45,8 +45,8 @@ covid19-data-analysis/
 
 **Author:** Mohan Narayanapuram  
 Email: [mohanvenkat017@gmail.com]  
-LinkedIn: [linkedin.com/in/mohan-narayanapuram](https://www.linkedin.com/in/mohan-narayanapuram/) 
-GitHub: [github.com/mohan-narayanapuram](https://github.com/mohan-narayanapuram)
+LinkedIn: [mohan-narayanapuram](https://www.linkedin.com/in/mohan-narayanapuram/)
+GitHub: [mohan-narayanapuram](https://github.com/mohan-narayanapuram)
 
 ---
 
