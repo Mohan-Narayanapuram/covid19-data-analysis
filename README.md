@@ -37,14 +37,16 @@ https://raw.githubusercontent.com/SR1608/Datasets/main/covid-data.csv
 - Engineered a new feature: total_deaths_to_total_cases  
 - Generated various plots: histograms, scatter plots, pair plots, and bar charts  
 
-## Project Files and Author
-covid19-data-analysis/
+## Project Files
+```covid19-data-analysis/
 ├── covid_analysis.ipynb       # Jupyter Notebook containing the full project
 ├── covid_groupby.csv          # Final aggregated dataset by continent
 └── README.md                  # Project documentation
+```
 
-**Author:** Mohan Narayanapuram  
-Email: [mohanvenkat017@gmail.com]  
+## Author
+Mohan Narayanapuram  
+Email: mohanvenkat017@gmail.com
 LinkedIn: [mohan-narayanapuram](https://www.linkedin.com/in/mohan-narayanapuram/)
 GitHub: [mohan-narayanapuram](https://github.com/mohan-narayanapuram)
 
