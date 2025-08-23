@@ -46,8 +46,8 @@ https://raw.githubusercontent.com/SR1608/Datasets/main/covid-data.csv
 
 ## Author
 Mohan Narayanapuram  
-Email: mohanvenkat017@gmail.com
-LinkedIn: [mohan-narayanapuram](https://www.linkedin.com/in/mohan-narayanapuram/)
+Email: mohanvenkat017@gmail.com   
+LinkedIn: [mohan-narayanapuram](https://www.linkedin.com/in/mohan-narayanapuram/)   
 GitHub: [mohan-narayanapuram](https://github.com/mohan-narayanapuram)
 
 ---
